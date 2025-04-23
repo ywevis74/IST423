@@ -1,0 +1,51 @@
+﻿EmpID,FName,Midl,LName,Phone,Email,Street,City,Zip,HireDate,Position,Wage,BranchID
+EMP001,Sherri,C,Howell,611-239-3078x80339,dominicatkins@gmail.com,55027 Vicki Inlet,Underwoodview,40251,2024-01-09,Manager,37.1,LOC047
+EMP002,Tommy,K,Rush,001-864-743-5912x370,katherine85@knox-price.com,02409 Samuel Camp Suite 266,Sotochester,22059,2020-08-28,Manager,45.77,LOC031
+EMP003,Tammy,M,Brown,242-351-6616,turnerbetty@frederick.com,17557 Huber Parkways Suite 896,New Brianport,17003,2021-08-30,Manager,42.88,LOC019
+EMP004,Alexa,S,Carrillo,001-039-556-9386,mia29@gardner-andrade.biz,70639 Carol Path,Ritterport,17516,2020-12-03,Manager,48.58,LOC025
+EMP005,Levi,J,Fry,494-540-3782,thomasgina@hotmail.com,00863 Garner Turnpike Apt. 160,Garciamouth,95107,2022-08-28,Manager,41.64,LOC050
+EMP006,Erika,K,Alvarado,+1-372-940-2261,dmoss@gmail.com,83377 Heather Squares,South Benjaminstad,39259,2023-02-18,Assistant,39.02,LOC050
+EMP007,Alexandria,T,May,919-986-5424x5592,mezashawn@gmail.com,33452 Alex Rue Apt. 560,Larryton,64779,2024-11-04,Assistant,34.85,LOC001
+EMP008,Laurie,S,Morrison,2563575342,lmcdonald@li-cox.net,497 Arias Port,East Jasonfurt,73720,2021-08-08,Manager,21.78,LOC042
+EMP009,Roberto,B,Bond,+1-964-487-8542x664,carteranthony@yahoo.com,5642 Martinez Meadows Apt. 258,New Tammy,84416,2020-11-15,Manager,46.08,LOC030
+EMP010,John,J,Cowan,(325)637-8931x9420,pmurphy@gmail.com,0991 Hernandez Summit Apt. 194,Maryshire,12372,2023-12-27,Manager,12.02,LOC012
+EMP011,Christopher,J,Diaz,(622)422-7038,wilsonjulie@abbott-hill.com,6239 Melissa Knolls,Bishopside,51858,2020-11-09,Clerk,49.82,LOC018
+EMP012,Harold,M,Ramirez,+1-124-040-1886x8852,zparker@ibarra-lowe.com,496 Roy Heights Suite 156,Kevinton,53164,2020-11-09,Clerk,24.32,LOC008
+EMP013,Tammy,S,Johnson,001-864-545-4445,jtucker@hotmail.com,4091 Kyle Mall Suite 740,Charlesfurt,24039,2021-05-25,Assistant,47.46,LOC015
+EMP014,Darrell,D,May,111-668-6227x15992,jessicamcgrath@hotmail.com,4000 Leblanc Village Apt. 393,Lake Gregory,08746,2022-06-02,Clerk,22.28,LOC040
+EMP015,Thomas,R,Baker,001-163-817-7879x34356,jill34@butler.com,542 Richardson Divide Suite 194,Williamstad,79498,2023-03-21,Assistant,29.31,LOC040
+EMP016,Garrett,S,Martinez,001-036-341-1554x019,andrew51@baker.com,560 Flowers Corners,Walkershire,80270,2023-04-09,Clerk,31.56,LOC042
+EMP017,John,D,Gregory,526-228-8322x964,ereed@gmail.com,03240 Austin Crossing,Lake Sharon,72133,2021-03-23,Manager,13.71,LOC039
+EMP018,Kathy,J,Harrison,001-336-514-2656,johnsontimothy@hotmail.com,29001 Jimenez Station Apt. 945,New Nicholas,87798,2021-04-16,Manager,28.88,LOC033
+EMP019,Debbie,A,Richards,534.609.2088x592,jonesmichael@kent.com,15935 Davis Landing,Scottbury,79072,2022-03-22,Manager,37.44,LOC035
+EMP020,Michael,H,Bennett,(570)014-4762,jacqueline21@miller-johnson.biz,81910 Maddox Manor Suite 574,East Gregoryhaven,56931,2021-04-06,Assistant,37.45,LOC002
+EMP021,Angela,G,Ortiz,490.279.0825x752,davisjeffery@hotmail.com,067 Booker Turnpike,Lisashire,05090,2022-05-20,Assistant,28.96,LOC006
+EMP022,Margaret,A,Jones,(722)525-2452,henry95@yahoo.com,4082 Brian Causeway,Amyland,49773,2021-06-17,Manager,32.85,LOC036
+EMP023,Kimberly,B,Miller,001-492-687-5940x4553,yhernandez@gmail.com,29652 Lawrence Green Apt. 669,Ramosburgh,27711,2021-01-21,Assistant,35.15,LOC036
+EMP024,William,N,Terrell,001-706-432-0354x0586,stevensmario@jackson.net,22731 Michelle Ports Suite 896,North Samantha,14976,2024-10-04,Assistant,42.36,LOC049
+EMP025,David,M,Rasmussen,(147)970-1310x2786,kendraking@hotmail.com,592 Santiago Junctions Suite 200,Brianstad,42455,2022-11-14,Clerk,46.4,LOC005
+EMP026,Miguel,J,White,001-076-022-7115x80511,kortega@hamilton-ryan.biz,897 Angela Run Suite 315,South Tracey,28422,2022-01-28,Manager,12.57,LOC016
+EMP027,Jeffrey,A,Hammond,001-889-648-7939,lisa82@hotmail.com,704 Johnson Parkway Suite 574,New Joseph,96879,2023-05-08,Clerk,33.82,LOC017
+EMP028,Dylan,M,Cooper,001-244-205-5973,margaret70@gmail.com,5658 Tamara Flats,Port Nicholasfort,21425,2023-05-19,Assistant,19.86,LOC041
+EMP029,Kaitlin,Z,Solomon,001-023-381-8723,timothy76@yahoo.com,60150 Lowe Camp Suite 748,Julianchester,21845,2020-09-23,Assistant,33.54,LOC047
+EMP030,Kristen,A,Perez,001-843-403-6199x0206,zyoung@gmail.com,78931 Price Crossroad,New Davidbury,08541,2021-12-13,Assistant,46.23,LOC005
+EMP031,Kiara,K,Hanson,+1-009-813-3025x962,jennifer98@hotmail.com,06427 Massey Shore,Gallegoshaven,94318,2021-11-25,Assistant,39.49,LOC029
+EMP032,Megan,E,Rubio,001-080-249-8302,sarah12@brandt.com,98704 Mendoza Keys,Sethside,47276,2024-10-29,Assistant,39.85,LOC023
+EMP033,Larry,K,Schmidt,351-567-7727x15187,williammontes@mcdonald-key.net,3502 Elizabeth Field Apt. 367,Lake Daniel,43744,2020-01-25,Assistant,15.06,LOC046
+EMP034,Gregory,J,Cain,912-994-6107x06067,barnettchristopher@green.com,287 Kathleen Village Apt. 307,Mcgeeside,01471,2023-02-22,Assistant,22.7,LOC026
+EMP035,Shelly,M,Ramirez,377.580.5859,rbrown@hotmail.com,0815 Diaz Ville,West Joshuachester,01193,2024-02-24,Clerk,39.63,LOC008
+EMP036,Christina,R,Stanton,6262044082,colemichael@yahoo.com,2522 Joe Streets Apt. 496,New Micheal,10139,2023-03-03,Manager,18.92,LOC019
+EMP037,David,J,Gomez,848-544-9214,rollinscaitlin@gmail.com,1905 Dean Trail,Georgehaven,13249,2025-03-27,Clerk,23.1,LOC017
+EMP038,Lori,K,Li,+1-020-006-4010,tanyaphelps@gmail.com,736 Smith Locks Apt. 666,Annetteshire,99563,2022-08-20,Manager,14.4,LOC049
+EMP039,Catherine,C,Stephens,970-071-0390,melvin63@perkins.com,0934 Patricia Passage Apt. 182,Adamsmouth,98527,2020-02-13,Assistant,36.87,LOC003
+EMP040,Kevin,M,Smith,119.584.8433x384,stephanie60@gmail.com,3890 Alexander Village Suite 215,East Timothy,17125,2023-03-14,Assistant,38.72,LOC003
+EMP041,Kristin,N,Roberts,907-113-8088x63412,fcurry@gmail.com,25696 Melanie Plaza,Lukeberg,94730,2023-12-17,Manager,18.19,LOC047
+EMP042,Teresa,T,Thompson,817-145-9386x3373,tina89@wilson.com,03348 Patricia Flats,Caseyshire,18086,2020-07-30,Clerk,10.04,LOC032
+EMP043,Bryan,J,Coleman,442-989-3481x778,kristopher07@wilson.com,92208 Timothy Locks Apt. 232,Kimberlytown,71046,2023-07-02,Manager,27.66,LOC037
+EMP044,Donna,M,Walsh,8284151269,joseph89@hotmail.com,335 Horn Center Apt. 537,South Rogerfurt,42822,2024-01-12,Assistant,13.33,LOC017
+EMP045,Justin,A,West,(438)465-5003x4906,wroberts@doyle-fox.net,776 Haynes Extension Apt. 682,Tomborough,11932,2022-03-02,Assistant,10.53,LOC014
+EMP046,Eric,P,Jennings,(419)844-8045x082,psanders@jackson.info,731 Jessica Rapids,Schmidtview,73983,2024-01-28,Manager,22.62,LOC003
+EMP047,Joshua,J,Holmes,3259504593,ryanmoore@stevens.org,106 William Plaza Apt. 433,North Bruce,75910,2021-08-22,Clerk,14.49,LOC005
+EMP048,James,K,Gomez,(542)577-0481x328,jorgejohnson@shannon.net,8951 Brandon Road,Michaelshire,44804,2024-05-08,Assistant,10.59,LOC050
+EMP049,Antonio,J,Roberts,728.462.5798x787,brianhardy@peters.net,01034 Mejia Trail Apt. 277,South Amberchester,65036,2021-01-11,Clerk,46.05,LOC050
+EMP050,Carl,R,Hughes,541-372-5459,pereznathaniel@wright.com,9150 Stevenson Spring,South Albert,71077,2021-03-16,Assistant,13.93,LOC046
